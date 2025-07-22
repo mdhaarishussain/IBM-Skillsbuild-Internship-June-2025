@@ -1,6 +1,8 @@
 💼 Employee Salary Classification | Capstone Project
 ====================================================
 
+<a href="https://ibb.co/KcR1Z8Wh"><img src="https://i.ibb.co/NgQ4hGKC/Screenshot-2025-07-23-031743.png" alt="Screenshot-2025-07-23-031743" border="0"></a>
+
 An Advanced ML model to predict whether an employee earns >$50K or ≤$50K. A Project by Md Haaris Hussain 🎓 EDUNET FOUNDATION - IBM SKILLSBUILD AI INTERNSHIP (JUNE 2025)
 
 ✨ Project Overview
